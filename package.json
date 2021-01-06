@@ -6,6 +6,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
+    "jasmine": "^3.6.3",
     "jasmine-core": "^2.0.0"
   }
 }
