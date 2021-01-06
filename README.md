@@ -9,6 +9,9 @@ See the [For Developers](https://github.com/emypye37/todo-list-app/wiki/For-Deve
 ### Usage
 See the [For Users](https://github.com/emypye37/todo-list-app/wiki/For-Users) page of our wiki for more instructions
 ***
+### Documentation 
+[Documentation](https://emypye37.github.io/todo-list-documentation/)
+***
 ### License
 MIT License
 
